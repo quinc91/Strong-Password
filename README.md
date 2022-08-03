@@ -1,1 +1,1 @@
-# Strong Password
+# Strong-Password
